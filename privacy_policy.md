@@ -2,7 +2,7 @@
 
 **Alfred Family Assistant**
 
-*Last updated: 2025*
+*Last updated: April 2026*
 
 ---
 
